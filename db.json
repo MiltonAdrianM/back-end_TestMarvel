@@ -1,0 +1,18 @@
+{
+    "Usuarios": [
+        {
+            "id": 1,
+            "apellidos": "monsalve",
+            "nombres":"Adrián",
+            "email": "miltonadrian87@hotmail.com",
+            "password": "202cb962ac59075b964b07152d234b70"            
+        },
+        {
+            "id": 2,
+            "apellidos": "Ortiz",
+            "nombres":"Jorge",
+            "email": "jorge123@gmail.com",     
+            "password": "81dc9bdb52d04dc20036dbd8313ed055"      
+        }
+    ]
+}
